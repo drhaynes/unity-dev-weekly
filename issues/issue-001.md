@@ -18,9 +18,11 @@ First part in a new series of articles looking in detail at the production of Un
 
 ### Unity Tips
 
-#### [Unity UI Best Practices]()
+#### [Unity UI Best Practices](https://github.com/drhaynes/unity-dev-weekly/blob/master/issues)
 
 The latest in a series of articles on best practices from the guys at Unity. This series focuses on best practices in working with the UI system.
+
+[https://github.com/drhaynes/unity-dev-weekly/blob/master/issues](https://github.com/drhaynes/unity-dev-weekly/blob/master/issues)
 
 ### Code
 
