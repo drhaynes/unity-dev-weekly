@@ -18,11 +18,11 @@ First part in a new series of articles looking in detail at the production of Un
 
 ### Unity Tips
 
-#### [Unity UI Best Practices](https://github.com/drhaynes/unity-dev-weekly/blob/master/issues)
+#### [Optimising Unity UIs](https://unity3d.com/learn/tutorials/topics/best-practices/guide-optimizing-unity-uis?playlist=30089)
 
 The latest in a series of articles on best practices from the guys at Unity. This series focuses on best practices in working with the UI system.
 
-[https://github.com/drhaynes/unity-dev-weekly/blob/master/issues](https://github.com/drhaynes/unity-dev-weekly/blob/master/issues)
+[https://unity3d.com/learn/tutorials/topics/best-practices/guide-optimizing-unity-uis?playlist=30089](https://unity3d.com/learn/tutorials/topics/best-practices/guide-optimizing-unity-uis?playlist=30089)
 
 ### Code
 
