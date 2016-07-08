@@ -68,7 +68,7 @@ For anyone who hasn't seen it already, the full Adam tech demo video can be foun
 
 [http://unity3d.com/pages/adam](http://unity3d.com/pages/adam)
 
-#### [Turning It Up To Eleven: Making Unity 5 Look Awesom](https://www.youtube.com/watch?v=CkrdZqYW36s)
+#### [Turning It Up To Eleven: Making Unity 5 Look Awesome](https://www.youtube.com/watch?v=CkrdZqYW36s)
 
 In this video from Unite Europe 2015, Lestyn Lloyd demonstrates the use of the [in-development Image Effects]() and a few select asset store packages, to achieve an incredible cinematic look in high-end scene rendering. Amazing to think that only a few years ago the community was bemoaning how dated and ugly Unity's rendering was. This video shows you the state of the art in rendering and post-processing effects to create some truly stunning imagery.
 
