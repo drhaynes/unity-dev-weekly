@@ -85,11 +85,11 @@ The original Lunar Flight was one of the first games released for the Oculus Rif
 Reddit discussion on how to choose a well balanced colour pallette for your game. If you're a coder or game designer and not an artist, it may be a surprise to learn that effective looking colour swatches can be calculated automatically. The thread has links to some useful tools that can do this for you. It's amazing how a good colour pallette can take an otherwise average design and push it into the 'good' zone. Really useful whether you're a seasoned artist or a one-person indie dev.
 
 [https://www.reddit.com/r/gamedev/comments/4s4u7c/how_to_choose_what_colors_to_use_in_your_game/](https://www.reddit.com/r/gamedev/comments/4s4u7c/how_to_choose_what_colors_to_use_in_your_game/)
-​
+
 ### And Finally...
 
 #### [Sega Saturn CD - Cracked after 20 years](https://www.youtube.com/watch?v=jOyfZex7B3E)
-​
+
 Inspirational story of hardware hacking and just not giving up in the face of setback after setback. Underdog of the 90s, the Sega Saturn has a special place in my heart. Many of my teenage years were spent playing Virtua Fighter 2 and Guardian Heroes. It's great to know that these devices will be able to play games long after the last CD drive gives up the ghost.
 
-[(https://www.youtube.com/watch?v=jOyfZex7B3E](https://www.youtube.com/watch?v=jOyfZex7B3E)
+[https://www.youtube.com/watch?v=jOyfZex7B3E](https://www.youtube.com/watch?v=jOyfZex7B3E)
