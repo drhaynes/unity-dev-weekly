@@ -75,7 +75,7 @@ After its released online for free in 2005, Valve noticed the game, hired the en
 ### Graphics
 
 
-#### [How to Explore Unity 5's Shader System Code - II - Reading the Standard Shader](http://www.shadercat.com/how-to-explore-unity-5s-shader-system-code-ii/](http://www.shadercat.com/how-to-explore-unity-5s-shader-system-code-ii/)
+#### [How to Explore Unity 5's Shader System Code - II - Reading the Standard Shader](http://www.shadercat.com/how-to-explore-unity-5s-shader-system-code-ii/)
 
 Excellent follow up to the overview in [part I](http://www.shadercat.com/how-to-explore-unity-5s-shader-system-code-i-overview/) of the ShaderCat series on the Unity Standard Shader.
 
