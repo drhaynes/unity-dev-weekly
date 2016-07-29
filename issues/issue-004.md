@@ -20,7 +20,7 @@ Key features:
 
 [https://unity3d.com/unity/whats-new/unity-5.4.0](https://unity3d.com/unity/whats-new/unity-5.4.0)
 
-#### [John Carmack Calls For 3D Equivalent Of JPEG To Build The Metaverse]http://uploadvr.com/john-carmack-metaverse-gltf/)
+#### [John Carmack Calls For 3D Equivalent Of JPEG To Build The Metaverse](http://uploadvr.com/john-carmack-metaverse-gltf/)
 
 Nice to see glTF getting some heavyweight support from key industry players. For anyone in the dark, the GL Transmission Format (glTF) from The Khronos Group aims to provide a lightweight, efficient format meant for 3d scene representation in a way that could be easily streamed, e.g. over the internet.
 
