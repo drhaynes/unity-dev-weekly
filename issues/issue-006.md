@@ -84,11 +84,11 @@ Useful video from the recent Unite Europe 2016 event convering some of the new v
 [https://youtu.be/RWPFGw9xyAI](https://youtu.be/RWPFGw9xyAI)
 
 
-#### [Let's Try Shooting via RayCasts](https://youtu.be/RWPFGw9xyAI)
+#### [Let's Try Shooting via RayCasts](http://unity3d.com/learn/tutorials/lets-try/shooting-with-raycasts)
 
 There are essentially three ways to implement a shooting mechanism in Unity - 1.) Use the built in physics engine and spawn a projectile with a large forward velocity at the site of your muzzle; 2.) Raycast in the direction the muzzle is facing at the moment of the shot being taken, or 3.) Implement your own ballistics physics solver.
 
 While option 3 is certainly fun for any physics geek (like yours truly), unless you are doing military-grade accurate ballistic simulation it is almost certainly overkill. Raycasting provides a happy medium, giving great results for the vast majority of cases. And to that end, this official Unity video tutorial has you covered:
 
-[https://youtu.be/RWPFGw9xyAI](https://youtu.be/RWPFGw9xyAI)
+[http://unity3d.com/learn/tutorials/lets-try/shooting-with-raycasts](http://unity3d.com/learn/tutorials/lets-try/shooting-with-raycasts)
 
