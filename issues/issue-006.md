@@ -1,7 +1,7 @@
 # Unity Dev Weekly
 
 ## Issue 6
-*11th August 2016*
+*12th August 2016*
 
 ### News
 
