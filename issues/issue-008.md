@@ -89,7 +89,7 @@ Official document on Google Drive from Unity outlining the major graphics change
 
 #### [How to successfully manage your game on Early Access](http://www.gamasutra.com/blogs/JoshGe/20160816/279339/The_Alpha_Release_Cycle_Running_a_Successful_EA_Program.php)
 
-As the saying goes, "Any fool can learn from their own mistakes, the wise man learns from others' mistakes." A really great article on Gamasutra journaling the specific details that go into a successful early access program for your game. A must read for anyone planning a release in the near future.
+As the saying goes, "Any fool can learn from their own mistakes, the wise man learns from the mistakes of others." A really great article on Gamasutra journaling the specific details that go into a successful early access program for your game. A must read for anyone planning a release in the near future.
 
 #### [http://www.gamasutra.com/blogs/JoshGe/20160816/279339/The_Alpha_Release_Cycle_Running_a_Successful_EA_Program.php](http://www.gamasutra.com/blogs/JoshGe/20160816/279339/The_Alpha_Release_Cycle_Running_a_Successful_EA_Program.php)
 
