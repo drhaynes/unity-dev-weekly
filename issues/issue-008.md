@@ -64,7 +64,7 @@ More great stuff from kenney.nl, this time a bunch of 2d space assets for protot
 
 #### [Coroutines in Unity - Encapsulating with Promises Part 1](http://blog.theknightsofunity.com/coroutines-unity-encapsulating-promises-part-1/)
 
-From the Knights of Unity blog, first of a two part in-depth series on coroutines, their limitations, and potential solutions. Part 1 goes into detail on how coroutines are implemented in the Unity runtime, and discusses their limitations when you want to return a value or handle exceptions. (Part 2)[http://blog.theknightsofunity.com/coroutines-in-unity-encapsulating-with-promises-part-2/] then presents a solution to these issues, in the form of promises.
+From the Knights of Unity blog, first of a two part in-depth series on coroutines, their limitations, and potential solutions. Part 1 goes into detail on how coroutines are implemented in the Unity runtime, and discusses their limitations when you want to return a value or handle exceptions. [Part 2](http://blog.theknightsofunity.com/coroutines-in-unity-encapsulating-with-promises-part-2/) then presents a solution to these issues, in the form of promises.
 
 #### [http://blog.theknightsofunity.com/coroutines-unity-encapsulating-promises-part-1/](http://blog.theknightsofunity.com/coroutines-unity-encapsulating-promises-part-1/)
 
