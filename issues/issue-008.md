@@ -12,7 +12,7 @@ Fairly quiet on official news this week. Everyone is clearly busy playing No Man
 
 #### [Attaching your project to a bug report  –  Unity Blog](https://blogs.unity3d.com/2016/08/24/attaching-your-project-to-a-bug-report/)
 
-When faced with a bug, a report to Unity that contains a reproducible test case in an example scene go a huge way to helping the team reproduce your issue. This covers best practices on doing that efficiently. Another step forwards for quality.
+When faced with a bug, a report to Unity that contains a reproducible test case in an example scene helps the team reproduce your issue. This covers best practices on doing that efficiently. Another step forwards for quality.
 
 #### [https://blogs.unity3d.com/2016/08/24/attaching-your-project-to-a-bug-report/](https://blogs.unity3d.com/2016/08/24/attaching-your-project-to-a-bug-report/)
 
