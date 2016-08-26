@@ -55,7 +55,7 @@ Really powerful node-based procedural texture creator from the folk at Catlike C
 
 #### [Free Asset Pack: Space Shooter Redux](http://kenney.nl/assets/space-shooter-extension)
 
-More great stuff from kennel.nl, this time a bunch of 2d space assets for prototyping or trying out gameplay ideas. Building an asteroids clone or shmup? This could be useful as a starting point.
+More great stuff from kenney.nl, this time a bunch of 2d space assets for prototyping or trying out gameplay ideas. Building an asteroids clone or shmup? This could be useful as a starting point.
 
 #### [http://kenney.nl/assets/space-shooter-extension](http://kenney.nl/assets/space-shooter-extension)
 
