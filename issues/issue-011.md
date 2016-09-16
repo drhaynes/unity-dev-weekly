@@ -71,11 +71,13 @@ Useful stats that show the various GPU vendors, shader generations, GPU model, G
 
 ### Video
 
-#### []()
-[]()
+#### [Speed Level Design : Apocalyptic City](https://www.youtube.com/watch?v=tlix0Sb7LLQ)
+Amazing video showing how to rapidly construct an environment out of pre-made assets. I particularly like the way the craters in the terrain are done, as well as the fake volumetric lighting effect. Youtube user Maverick makes level design look as easy as building Lego when we were kids. Well worth a watch.
+[https://www.youtube.com/watch?v=tlix0Sb7LLQ](https://www.youtube.com/watch?v=tlix0Sb7LLQ)
 
-#### []()
-[]()
+#### [Getting Started With Steam VR](https://www.youtube.com/watch?v=kAu5gizURZ8)
+Short summary video taking you through first steps integrating SteamVR into a Unity project. No coding required. The video demonstrates building a simple scene and deploying it in a way that can be consumed in VR. Ideal if you're looking to dip your toes into the VR waters.
+[https://www.youtube.com/watch?v=kAu5gizURZ8](https://www.youtube.com/watch?v=kAu5gizURZ8)
 
 
 ### Game Design
@@ -98,5 +100,8 @@ Useful stats that show the various GPU vendors, shader generations, GPU model, G
 
 ### And Finally...
 
-#### []()
-[]()
+#### [The Rise And Fall Of The Dreamcast](http://www.gamasutra.com/view/feature/132517/the_rise_and_fall_of_the_dreamcast.php)
+
+The nostalgia. Shenmue - what an experience. Although the Dreamcast was an incredible system - both in terms of available games and technology (it was the first 3d console to used a tiled rendering GPU, which is now commonplace on mobile GPUs), it just wasn't enough to undo the damage to Sega's hardware business started all the way back when the doomed 32X and SegaCD were released.
+
+[http://www.gamasutra.com/view/feature/132517/the_rise_and_fall_of_the_dreamcast.php](http://www.gamasutra.com/view/feature/132517/the_rise_and_fall_of_the_dreamcast.php)
