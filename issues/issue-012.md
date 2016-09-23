@@ -40,9 +40,6 @@ That said, the functionality you can add by using in this case the `ReorderableL
 
 [http://va.lent.in/unity-make-your-lists-functional-with-reorderablelist/](http://va.lent.in/unity-make-your-lists-functional-with-reorderablelist/)
 
-#### []()
-[]()
-
 
 ### Code
 
@@ -60,15 +57,6 @@ Very insightful article from Stephanie Hurlburt (ex. Oculus and Unity) discussin
 [http://stephaniehurlburt.com/blog/2016/9/16/closed-source-engines-are-a-big-risk](http://stephaniehurlburt.com/blog/2016/9/16/closed-source-engines-are-a-big-risk)
 
 
-### Tools
-
-#### []()
-[]()
-
-#### []()
-[]()
-
-
 ### Graphics
 
 #### [Lokel Digital - Blender to Unity modelling and animation](https://www.lokeldigital.com/blog/blender-to-unity-modelling-and-animating/)
@@ -76,15 +64,6 @@ Very insightful article from Stephanie Hurlburt (ex. Oculus and Unity) discussin
 40 page eBook going into detail on modelling, texturing, rigging and animating a simple worm character and the workflow from Blender to Unity.
 
 [https://www.lokeldigital.com/blog/blender-to-unity-modelling-and-animating/](https://www.lokeldigital.com/blog/blender-to-unity-modelling-and-animating/)
-
-
-### Assets
-
-#### []()
-[]()
-
-#### []()
-[]()
 
 
 ### Video
@@ -95,9 +74,6 @@ Part 2 in the series by Darrin Lile on creating an apartment environment in Blen
 
 [https://www.youtube.com/watch?v=E6wKWl5xFts](https://www.youtube.com/watch?v=E6wKWl5xFts)
 
-#### []()
-[]()
-
 
 ### Game Design
 
@@ -106,9 +82,6 @@ Part 2 in the series by Darrin Lile on creating an apartment environment in Blen
 The story behind the classic puzzle game that rocketed DMA Design game studios into orbit. They would later go on to create a small title named _Grand Theft Auto_. 
 
 [https://readonlymemory.vg/the-making-of-lemmings/](https://readonlymemory.vg/the-making-of-lemmings/)
-
-#### []()
-[]()
 
 
 ### Game Dev
@@ -121,11 +94,12 @@ This course has just started on coursera:
 
 [https://www.coursera.org/specializations/game-development](https://www.coursera.org/specializations/game-development)
 
-#### []()
-[]()
 
 
 ### And Finally...
 
-#### []()
-[]()
+#### [Learn from my errors!](https://www.reddit.com/r/Unity3D/comments/53tbkg/learn_from_my_errors/)
+
+When keyboard shortcuts collide. Oops...
+
+[https://www.reddit.com/r/Unity3D/comments/53tbkg/learn_from_my_errors/](https://www.reddit.com/r/Unity3D/comments/53tbkg/learn_from_my_errors/)
