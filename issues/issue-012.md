@@ -16,15 +16,29 @@ Some or all of these events will have some Unity related announcements, so watch
 
 I'm away on holiday for the next fortnight, so the next issue will be out on the 14th of October.
 
-#### []()
-[]()
+#### [Teaching Unity to Non-Programmers: Playground Project](https://blogs.unity3d.com/2016/09/20/teaching-unity-to-non-programmers-playground-project/)
+
+Amazing project by Ciro Continisio at Unity on using Unity as a tool to teach children the concepts of making games. The framework Ciro has created could easily form the basis of a teaching program for kids to learn how to get into game dev (and programming/logic concepts in general).
+
+Of particular note are the use of custom inspectors to make things dead-simple to use in Unity. Ciro has essentially created a drag an drop game making framework out of components and custom inspectors. Really inspiring work.
+
+[https://blogs.unity3d.com/2016/09/20/teaching-unity-to-non-programmers-playground-project/](https://blogs.unity3d.com/2016/09/20/teaching-unity-to-non-programmers-playground-project/)
 
 
 
 ### Unity Tips
 
-#### []()
-[]()
+#### [Unity: make your lists functional with ReorderableList](http://va.lent.in/unity-make-your-lists-functional-with-reorderablelist/)
+
+In-depth article on custom inspector creation using the little-known `UnityEditorInternal` namespace functionality.
+
+As noted in the article, this stuff isn't intended to be public api, so be aware:
+
+> Though UnityEditorInternal namespace is public, it seems to be intended for Unity Team internal use (hence the name), it is not documented and might change in future versions of Unity.
+
+That said, the functionality you can add by using in this case the `ReorderableList` is really useful when writing a custom inspector.
+
+[http://va.lent.in/unity-make-your-lists-functional-with-reorderablelist/](http://va.lent.in/unity-make-your-lists-functional-with-reorderablelist/)
 
 #### []()
 []()
